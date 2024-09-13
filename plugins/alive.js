@@ -20,7 +20,7 @@ let des = `👋 𝙷𝚎𝚕𝚕𝚘 ${pushname} 𝙸'𝚖 𝚊𝚕𝚒𝚟𝚎 
 | *Version*: 1.0.0
 | *Memory*: 38.09MB/7930MB
 
-I am nethu md whatsapp bot. How can I help you.
+I am ghost md whatsapp bot. How can I help you.
 To get the menu, type as menu. If you need to know something about the bot,
 type as owner and direct the question to me. Good day.
 
