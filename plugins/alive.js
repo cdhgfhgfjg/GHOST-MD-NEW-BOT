@@ -1,4 +1,4 @@
-const config = require('../config')
+const {readEnv} = require("../lib/database")
 const {cmd , commands} = require('../command')
 
 cmd({
@@ -10,6 +10,7 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
+const config = await readEnv(),
 
 let des = `👋 𝙷𝚎𝚕𝚕𝚘 ${pushname} 𝙸'𝚖 𝚊𝚕𝚒𝚟𝚎 𝚗𝚘𝚠
 
