@@ -1,6 +1,3 @@
-<div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
- </p>
 #    GHOST-V2-MD BOT   #
 <br>
 <div>
@@ -78,5 +75,6 @@
 ## Deploy.
  [![nima](https://img.shields.io/badge/ghostmd_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/GHOST-V1-MD/GHOST-MD)
  <div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+ </p>
 
