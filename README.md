@@ -41,11 +41,15 @@
 # 𝐆𝐇𝐎𝐒𝐓 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐍𝐔𝐌𝐁𝐄𝐑👇:
 <img src="https://telegra.ph/file/f8ced69143daac134f2d7.jpg" width=80 height=80></a> 
 
+
+
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - [**❯𝐆𝐇𝐎𝐒𝐓-𝐂𝐎𝐍𝐓𝐀𝐂𝐓-𝐈𝐃❮**](https://wa.me/+94741140620?text=*❝𝙷𝙴𝚈◹𝙶𝙷𝙾𝚂𝚃✗𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁❞⛺*)
 # 𝐆𝐇𝐎𝐒𝐓 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐍𝐔𝐌𝐁𝐄𝐑👇:
+<div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://telegra.ph/file/68dd5640f7ca165397913.jpg" width=80 height=80></a>   
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -58,6 +62,11 @@
 ##  PAIRING CODE SCAN
 <a href="https://pair-web-public.koyeb.app/"><img src="https://pair-web-public.koyeb.app/" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
+<div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Deploy.
  [![nima](https://img.shields.io/badge/ghostmd_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/GHOST-V1-MD/GHOST-MD)
+ <div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
