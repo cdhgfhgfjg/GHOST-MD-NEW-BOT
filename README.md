@@ -11,6 +11,9 @@
  <div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  </p>
+<div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+ </p>
 
   
 <div align="center">
@@ -69,13 +72,7 @@
 <div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  </p>
- 
-<img src="https://telegra.ph/file/68dd5640f7ca165397913.jpg" width=80 height=80></a>   
-<div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
- </p>
-- [**❯𝐆𝐇𝐎𝐒𝐓-𝐂𝐎𝐍𝐓𝐀𝐂𝐓-𝐈𝐃❮**](https://wa.me/+94718919262?text=*❝𝙷𝙴𝚈◹𝙶𝙷𝙾𝚂𝚃✗𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁❞⛺*)
--
+
 <div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  </p>
