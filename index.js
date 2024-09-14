@@ -35,7 +35,15 @@ console.log("Session downloaded ✅")
 const express = require("express");
 const app = express();
 const port = process.env.PORT || 8000;
-
+//================================/
+async function connectToWA() {
+//==================MONGODB===========================
+const connectDB = require('./lib/mongodb')
+connectDB();
+//==============================================
+const {readEnv} = require('./lib/database')
+const config = await readEnv();
+const prefix = config.PREFIX
 //=============================================
 
 async function connectToWA() {
