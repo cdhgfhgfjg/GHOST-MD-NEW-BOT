@@ -31,6 +31,7 @@
 <p align="center">
   <a href="https://youtu.be/WcA7GZuaN0A">
     <img alt="GHOST-MD" height="300" src="https://telegra.ph/file/26fa981907598d22aa4e1.jpg">
+   
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -40,6 +41,10 @@
 
 ![forks](https://github.com/Cyberghost352/GHOST-MD.git)
 
+<div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+ </p>
+ 
 ![stars](https://github.com/Cyberghost352/GHOST-MD.git)
 
 <div>
